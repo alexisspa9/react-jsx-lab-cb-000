@@ -12,3 +12,5 @@ class Webpage extends React.component {
     )
   }
 }
+
+export default Webpage
